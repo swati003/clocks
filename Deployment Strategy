@@ -1,0 +1,6 @@
+Tools used for deployment:-
+Jenkins Pipeline to create deployment and release.
+Gcp Account.
+Bigquery to store data in tabular format.
+GCS Buckets for intermediate Processing.
+
